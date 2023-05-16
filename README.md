@@ -2,6 +2,7 @@
 All in One Version : Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab.
 ## Leave A Star if This Repo Was Helpful
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
+[![Trakteer](https://cdn.trakteer.id/images/embed/trbtn-red-1.png)](https://trakteer.id/ardha27)
 
 ### Tutorial (Indonesian)
 https://youtu.be/v5MwAqQTc6Q
