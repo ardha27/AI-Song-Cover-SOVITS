@@ -1,9 +1,9 @@
 # AI-Song-Cover-SOVITS
 All in One Version : Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab.
 ## Leave A Star if This Repo Was Helpful
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
+"[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)\n"
 <a href="https://trakteer.id/ardha27">
-    <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="40">
+    <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="30">
 </a>
 
 
